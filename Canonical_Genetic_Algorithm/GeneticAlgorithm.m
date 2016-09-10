@@ -1,5 +1,5 @@
 %Program to implement Canonical Genetic Algorithm and minimize the
-%Rastrigin Function over a search area of [?10 10] X [?10 10]
+%Rastrigin Function over a search area of [-10 10] X [-10 10]
 % Author: Rohan Sarkar
 % This is based on the original code by Roger Jang
 generation_n = 50;	% Number of generations
